@@ -1,0 +1,14 @@
+{
+  "name": "facebook-teste",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Erika Santana",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
